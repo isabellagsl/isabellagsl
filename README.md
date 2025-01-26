@@ -30,11 +30,6 @@
 
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
-## 📈 Projects
-
-* [Project 1](https://github.com/isabellagsl/project-1)
-* [Project 2](https://github.com/isabellagsl/project-2)
-
 ## 📲 Contact
 <img align="right"  heigh= "260" width="240" src="tenor.gif">
 
