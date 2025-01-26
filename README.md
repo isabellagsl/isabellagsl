@@ -48,4 +48,4 @@
 
 [![Gmail](https://img.shields.io/badge/isabellagsoftware@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.isabellagsoftware@gmail.com)](mailto:isabellagsoftware@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Isabella%20Gonçalves-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)](https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)git push 
+[![LinkedIn](https://img.shields.io/badge/Isabella%20Gonçalves-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)](https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309) 
