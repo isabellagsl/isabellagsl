@@ -8,6 +8,7 @@
 ## 📚 Education
 
 * Curso de desenvolvimento web com python (senac, 2024)
+* Curso de programador web (Senac, 2025)
 * Estudante de engenharia de software (Unopar, 2024 - Now)
 
 ## 📚 Habilidades Técnicas
