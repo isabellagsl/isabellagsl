@@ -21,10 +21,6 @@
 
 [![Backend Skills](https://skillicons.dev/icons?i=python,ruby,rails,django,flask)](https://skillicons.dev)
 
-### Ferramentas de Desenvolvimento
-
-[![Tools](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
-
 ### Banco de Dados e Versionamento
 
 [![Banco de Dados](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
