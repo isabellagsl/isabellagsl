@@ -1,8 +1,7 @@
 ## Hello! I'm <strong>Isabella Gonçalves</strong> a <em>future Full Stack Engineer.</em> 
 
 ## 📊 GitHub Statistics
-[![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagsl&layout=compact&theme=github_dark)](https://github.com/isabellagsl)
-
+[![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellagsl&theme=github_dark)](https://github.com/isabellagsl)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagsl&layout=compact&langs_count=7&theme=github_dark)](https://github.com/isabellagsl)
 
 
