@@ -1,12 +1,12 @@
-## Hello! I'm <strong>Isabella Gonçalves</strong> a <em>future Full Stack Engineer.</em> 
+## Hello! I'm **Isabella Gonçalves**, a *future Full Stack Engineer.*
 
 ## 📚 Education
 
-* Curso de desenvolvimento web com python (Senac, 2024)
-* Curso de programador web (Senac, 2025)
-* Estudante de engenharia de software (Unopar, 2024 - Now)
+* Web Development with Python – Senac (2024)
+* Web Developer Program – Senac (2025)
+* B.S. in Software Engineering – Unopar (2024 – Present)
 
-## 📚 Habilidades Técnicas
+## 💻 Technical Skills
 
 ### Frontend
 
@@ -16,15 +16,16 @@
 
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java)](https://skillicons.dev)
 
-### Banco de Dados e Versionamento
+### Databases & Version Control
 
-[![Banco de Dados](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
 [![Git](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## 📲 Contact
+
 <img align="right" height="260" width="240" src="tenor.gif">
 
-[![Gmail](https://img.shields.io/badge/isabellagsoftware@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.isabellagsoftware@gmail.com)](mailto:isabellagsoftware@gmail.com)
+[![Gmail](https://img.shields.io/badge/isabellagsoftware@gmail.com-F74141?style=for-the-badge\&logoColor=white\&logo=gmail\&link=mailto\:isabellagsoftware@gmail.com)](mailto:isabellagsoftware@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Isabella%20Gonçalves-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)](https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)
+[![LinkedIn](https://img.shields.io/badge/Isabella%20Gonçalves-0e76a8?style=for-the-badge\&logo=Linkedin\&link=https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)](https://www.linkedin.com/in/isabella-gon%C3%A7alves-da-silva-324900309)
