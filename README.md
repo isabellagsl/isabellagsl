@@ -1,9 +1,5 @@
 ## Hello! I'm <strong>Isabella Gonçalves</strong> a <em>future Full Stack Engineer.</em> 
 
-## 📊 GitHub Statistics
-[![Isabella's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellagsl&theme=github_dark)](https://github.com/isabellagsl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagsl&layout=compact&langs_count=7&theme=github_dark)](https://github.com/isabellagsl)
-
 ## 📚 Education
 
 * Curso de desenvolvimento web com python (Senac, 2024)
@@ -18,7 +14,7 @@
 
 ### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,ruby,rails,django,flask)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java)](https://skillicons.dev)
 
 ### Banco de Dados e Versionamento
 
