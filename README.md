@@ -5,15 +5,12 @@
 
 <br>
 
-<img align="right" height="260" src="tenor.gif" alt="Coding GIF">
-
 ## About Me
 
 - **B.S. in Software Engineering** – Unopar *(2024 – Present)*
 - **Web Developer Program** – Senac *(2025)*
 - **Web Development with Python** – Senac *(2024)*
-- I’m currently focusing on expanding my skills in **Full Stack Development**.
-- I love exploring new technologies and building dynamic web applications.
+- I’m currently focusing on expanding my skills in **Full Stack Development and AI**.
 
 <br>
 
@@ -62,16 +59,9 @@
 
 <br>
 
-##  GitHub Stats
+## Let's Connect!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabellagsl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Isabella's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellagsl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-<br>
-
-##  Let's Connect!
+<img align="right" height="260" src="tenor.gif" alt="Coding GIF">
 
 <div align="center">
   <a href="mailto:isabellagsoftware@gmail.com">
